@@ -59,3 +59,7 @@ This dashboard is designed for:
 - **SQL**: Data preprocessing and aggregation for dashboard input.
 
 ---
+
+## Dashboard 
+
+![My Image](dashboard.PNG)
